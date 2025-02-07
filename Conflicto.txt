@@ -1,2 +1,8 @@
 Conflicto.txt
+<<<<<<< HEAD
 Sofia Lina
+=======
+Azu 
+Francy
+>>>>>>> 16189371f2a476224f2cc5747383659d5c040833
+Resolver problema
